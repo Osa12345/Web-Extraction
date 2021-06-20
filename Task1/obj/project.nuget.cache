@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohFY2Kmxt4Ef3r21WmTSDFyxt+p4ppiN+3Z300L2KtycDvsb8WsPT0YMpSaqrqQ8cwbtpnrML867EQVMzpctGA==",
+  "success": true,
+  "projectFilePath": "C:\\Task1\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M.Osama\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512",
+    "C:\\Users\\M.Osama\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
